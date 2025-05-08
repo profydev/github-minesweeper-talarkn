@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-  "commands": []
-=======
   "commands": [
     "clear A1",
     "flag E3",
@@ -9,7 +6,10 @@
     "flag C6",
     "clear E4",
     "clear E5",
-    "clear D6"
+    "clear D6",
+    "clear C7",
+    "clear E6",
+    "clear D7",
+    "clear E7"
   ]
->>>>>>> a5cecb7664d51bfaa7e2fe42c570deda2398a840
 }
